@@ -1,5 +1,5 @@
 # DDSI
-Práctica final de la asignatura Diseño y desarrollo de sistemas de información en la Universidad de Granada (UGR) 
+Proyecto final de la asignatura Diseño y desarrollo de sistemas de información en la Universidad de Granada (UGR) 
 
 El presente proyecto se trata de una aplicación que controla y gestiona las distintas tareas que puede realizar un comercio , en concreto, una tienda de zapatillas.
 
